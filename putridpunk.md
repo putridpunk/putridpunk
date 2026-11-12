@@ -34,41 +34,41 @@ My coursework has taken me from **HDLC-style framing and reliable transfer over 
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-0A2416?style=flat-square&logo=c&logoColor=2DFC6F)
-![C++](https://img.shields.io/badge/C%2B%2B-0A2416?style=flat-square&logo=cplusplus&logoColor=2DFC6F)
-![Python](https://img.shields.io/badge/Python-0A2416?style=flat-square&logo=python&logoColor=2DFC6F)
-![Java](https://img.shields.io/badge/Java-0A2416?style=flat-square&logo=openjdk&logoColor=2DFC6F)
-![Haskell](https://img.shields.io/badge/Haskell-0A2416?style=flat-square&logo=haskell&logoColor=2DFC6F)
-![PHP](https://img.shields.io/badge/PHP-0A2416?style=flat-square&logo=php&logoColor=2DFC6F)
-![SQL](https://img.shields.io/badge/SQL-0A2416?style=flat-square&logo=postgresql&logoColor=2DFC6F)
-![JavaScript](https://img.shields.io/badge/JavaScript-0A2416?style=flat-square&logo=javascript&logoColor=2DFC6F)
-![HTML5](https://img.shields.io/badge/HTML5-0A2416?style=flat-square&logo=html5&logoColor=2DFC6F)
-![CSS3](https://img.shields.io/badge/CSS3-0A2416?style=flat-square&logo=css3&logoColor=2DFC6F)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Frameworks & mobile**
 
-![Laravel](https://img.shields.io/badge/Laravel%2012-0A2416?style=flat-square&logo=laravel&logoColor=2DFC6F)
-![FastAPI](https://img.shields.io/badge/FastAPI-0A2416?style=flat-square&logo=fastapi&logoColor=2DFC6F)
-![Flutter](https://img.shields.io/badge/Flutter-0A2416?style=flat-square&logo=flutter&logoColor=2DFC6F)
-![React Native](https://img.shields.io/badge/React%20Native-0A2416?style=flat-square&logo=react&logoColor=2DFC6F)
-![Blade](https://img.shields.io/badge/Blade-0A2416?style=flat-square&logo=laravel&logoColor=2DFC6F)
+![Laravel](https://img.shields.io/badge/Laravel%2012-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Blade](https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
 **Data & backend**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL%2016-0A2416?style=flat-square&logo=postgresql&logoColor=2DFC6F)
-![SQLite](https://img.shields.io/badge/SQLite-0A2416?style=flat-square&logo=sqlite&logoColor=2DFC6F)
-![Firebase](https://img.shields.io/badge/Firebase-0A2416?style=flat-square&logo=firebase&logoColor=2DFC6F)
-![Eloquent](https://img.shields.io/badge/Eloquent-0A2416?style=flat-square&logo=laravel&logoColor=2DFC6F)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL%2016-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Eloquent](https://img.shields.io/badge/Eloquent-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
 **Tools & environments**
 
-![Git](https://img.shields.io/badge/Git-0A2416?style=flat-square&logo=git&logoColor=2DFC6F)
-![Docker](https://img.shields.io/badge/Docker-0A2416?style=flat-square&logo=docker&logoColor=2DFC6F)
-![Linux](https://img.shields.io/badge/Linux-0A2416?style=flat-square&logo=linux&logoColor=2DFC6F)
-![Bash](https://img.shields.io/badge/Bash-0A2416?style=flat-square&logo=gnubash&logoColor=2DFC6F)
-![WSL](https://img.shields.io/badge/WSL-0A2416?style=flat-square&logo=windows&logoColor=2DFC6F)
-![VS Code](https://img.shields.io/badge/VS%20Code-0A2416?style=flat-square&logo=visualstudiocode&logoColor=2DFC6F)
-![GitHub](https://img.shields.io/badge/GitHub-0A2416?style=flat-square&logo=github&logoColor=2DFC6F)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL-4D4D4D?style=flat-square&logo=windows&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 **Concepts**
 
@@ -152,11 +152,11 @@ The core finding: the information exists, but students can't find it or understa
 <div align="center">
 
 <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=putridpunk&theme=dark" alt="Pedro's GitHub stats" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=putridpunk&theme=vue" alt="Repositories per language" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=putridpunk&theme=dark" alt="Repositories per language" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=putridpunk&background=0A2416&border=1E5C38&stroke=2DFC6F&ring=2DFC6F&fire=2DFC6F&currStreakNum=E8FFF0&sideNums=E8FFF0&currStreakLabel=2DFC6F&sideLabels=2DFC6F&dates=9DBFAA" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=putridpunk&background=151515&border=1E5C38&stroke=2DFC6F&ring=2DFC6F&fire=2DFC6F&currStreakNum=E8FFF0&sideNums=E8FFF0&currStreakLabel=2DFC6F&sideLabels=2DFC6F&dates=9DBFAA" alt="GitHub streak" />
 
 </div>
 
