@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Pedro%20Santos&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Informatics%20%26%20Computing%20Engineering%20%C2%B7%20FEUP&descAlignY=58&descSize=18" alt="Pedro Santos" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Pedro%20Santos&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Informatics%20and%20Computing%20Engineering%20%C2%B7%20FEUP&descAlignY=58&descSize=18" alt="Pedro Santos" />
 
 ### Hi, I'm Pedro 👋
 
