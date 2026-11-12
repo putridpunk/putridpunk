@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Pedro%20Santos&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20%C2%B7%20FEUP&descAlignY=58&descSize=18" alt="Pedro Santos" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Pedro%20Santos&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Informatics%20%26%20Computing%20Engineering%20%C2%B7%20FEUP&descAlignY=58&descSize=18" alt="Pedro Santos" />
 
 ### Hi, I'm Pedro 👋
 
-**Final-year Computer Engineering student at FEUP** · Porto, Portugal
+**Final-year student of Informatics and Computing Engineering (L.EIC) at FEUP** · Porto, Portugal
 
 I build things close to the metal and on the web — from network protocols in C to full-stack applications in Laravel. This page is my portfolio: the projects below are coursework I'm proud of, documented and open to explore.
 
 [![GitHub](https://img.shields.io/badge/GitHub-putridpunk-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/putridpunk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-simas-santos-30a105280/)
-[![FEUP](https://img.shields.io/badge/FEUP-L.EIC-7A003C?style=for-the-badge)](https://www.up.pt/feup/en/)
+[![FEUP](https://img.shields.io/badge/FEUP-L.EIC-7A003C?style=for-the-badge)](https://sigarra.up.pt/feup/en/CUR_GERAL.CUR_VIEW?pv_curso_id=22841)
 [![Location](https://img.shields.io/badge/Porto-Portugal-2c5364?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
@@ -19,11 +19,11 @@ I build things close to the metal and on the web — from network protocols in C
 
 ## About me
 
-I'm a final-year **L.EIC** student at the **Faculty of Engineering of the University of Porto (FEUP)**, interested in the layers that make software work: protocols, operating systems, databases and the interfaces people actually use.
+I'm in my final year of the **Bachelor in Informatics and Computing Engineering (L.EIC)** at the **Faculty of Engineering of the University of Porto (FEUP)**, interested in the layers that make software work: protocols, operating systems, databases and the interfaces people actually use.
 
 My coursework has taken me from **HDLC-style framing and reliable transfer over a serial link in C**, through **parser combinators and truth tables in Haskell**, to a **Laravel + PostgreSQL web platform** and a **user-centred public-services project**. I like code that is correct under failure, documentation that explains *why*, and interfaces that don't make people think.
 
-- 🎓 **Education:** BSc in Computer Engineering (L.EIC), FEUP — 2026/2027
+- 🎓 **Education:** Bachelor in Informatics and Computing Engineering (L.EIC), FEUP — 2026/2027
 - 💼 **Open to:** internships and junior software engineering roles
 - 🧠 **Currently deepening:** backend engineering, networking and application security
 - 📍 **Based in:** Vila Nova de Gaia / Porto, Portugal
@@ -74,6 +74,7 @@ Implemented an **HDLC-style framing** protocol with byte stuffing, **BCC1/BCC2**
 
 Validated with a virtual cable under **injected bit errors, propagation delay, and link disconnections** — the received file stays byte-identical to the original. The project also reports throughput and protocol efficiency.
 
+**Course:** Redes de Computadores (RC) — Computer Networks · 3rd year, 6 ECTS<br/>
 **Stack:** `C` · `Linux/WSL` · `termios` · `socat` · `Make`<br/>
 **Repo:** [github.com/putridpunk/RCOM](https://github.com/putridpunk/RCOM)
 
@@ -87,6 +88,7 @@ Built with **parser combinators**: `prop` and `term` handle operator precedence 
 
 Backed by a **65-case test suite** plus whitespace edge cases.
 
+**Course:** Programação Funcional e em Lógica (PFL) — Functional and Logic Programming · 3rd year, 6 ECTS<br/>
 **Stack:** `Haskell` · `GHC` · parser combinators · recursion<br/>
 **Repo:** [github.com/putridpunk/PFL-project-1](https://github.com/putridpunk/PFL-project-1)
 
@@ -100,6 +102,7 @@ Built on a **Laravel 12 / PHP 8.3 / PostgreSQL 16** stack with Blade and vanilla
 
 The database is designed directly in SQL with **enums, constraints and triggers**, and the application enforces **policy-based authorization** on every protected resource, server-side validation, CSRF protection and escaped output. Work in progress as a course project.
 
+**Course:** Laboratório de Bases de Dados e Aplicações Web (LBAW) — Databases and Web Applications Laboratory · 3rd year, 6 ECTS<br/>
 **Stack:** `PHP` · `Laravel` · `PostgreSQL` · `Blade` · `Docker`<br/>
 **Repo:** academic GitLab repository — available on request
 
@@ -113,6 +116,7 @@ Four-person HCI project following a **user-centred design process**. We ran an o
 
 The core finding: the information exists, but students can't find it or understand it — Sigarra is dispersed, opaque after submission, and awkward on mobile.
 
+**Course:** Interação Pessoa-Computador (IPC) — Human–Computer Interaction · 3rd year, 4.5 ECTS<br/>
 **Stack:** user research · PACT · wireframing · prototyping · usability evaluation<br/>
 **Deliverables:** presentation and report (Portuguese)
 
@@ -125,6 +129,7 @@ The core finding: the information exists, but students can't find it or understa
 - **Set-UID & environment variables:** analysed how `fork`, `execve`, `system` and `PATH` interact in privileged programs; exploited a `PATH` hijack against a Set-UID root binary, and demonstrated why invoking a shell from privileged code is dangerous.
 - **Web security:** performed stored **XSS** attacks on the Elgg social network, stole session cookies with a `netcat` listener, and wrote a self-propagating **friend-request worm** — then analysed the corresponding mitigations.
 
+**Course:** Fundamentos de Segurança Informática (FSI) — Foundations of Computer Security · 3rd year, 6 ECTS<br/>
 **Stack:** `Linux` · `C` · `Bash` · `JavaScript` · `SEED Labs`<br/>
 **Deliverables:** lab logs and exploitation write-ups
 
@@ -148,15 +153,25 @@ The core finding: the information exists, but students can't find it or understa
 ## Education
 
 **Faculty of Engineering, University of Porto (FEUP)** — Porto, Portugal<br/>
-**BSc in Computer Engineering (L.EIC)** · 2026/2027 (final year)
+**Bachelor in Informatics and Computing Engineering (L.EIC)** · 2026/2027 (final year)
 
-Relevant coursework: Computer Networks · Databases and Web Applications · Human–Computer Interaction · Computer Security · Functional Programming · Operating Systems · Algorithms and Data Structures
+A 3-year, 180-ECTS first-cycle degree offered jointly by **FEUP** and the **Faculty of Sciences of the University of Porto (FCUP)**.
+
+**Coursework (3rd year, 1st semester)**
+
+- **Redes de Computadores (RC)** — Computer Networks
+- **Laboratório de Bases de Dados e Aplicações Web (LBAW)** — Databases and Web Applications Laboratory
+- **Fundamentos de Segurança Informática (FSI)** — Foundations of Computer Security
+- **Programação Funcional e em Lógica (PFL)** — Functional and Logic Programming
+- **Interação Pessoa-Computador (IPC)** — Human–Computer Interaction
+
+Earlier coursework includes programming fundamentals, discrete mathematics, computer systems fundamentals, algorithms and data structures.
 
 ---
 
 ## Let's talk
 
-I'm looking for an internship or junior role where I can work on backend systems, infrastructure or security — and keep learning from people who care about doing it properly.
+I'm looking for an internship or junior role where I can work on backend systems, infrastructure, AI or security — and keep learning from people who care about doing it properly.
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-simas-santos-30a105280/)
 [![GitHub](https://img.shields.io/badge/Follow-putridpunk-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/putridpunk)
