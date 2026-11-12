@@ -156,7 +156,7 @@ Relevant coursework: Computer Networks · Databases and Web Applications · Huma
 
 ## Let's talk
 
-I'm looking for an internship or junior role where I can work on backend systems, infrastructure or security — and keep learning from people who care about doing it properly.
+I'm looking for an internship or junior role where I can work on backend systems, infrastructure, AI or security — and keep learning from people who care about doing it properly.
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-simas-santos-30a105280/)
 [![GitHub](https://img.shields.io/badge/Follow-putridpunk-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/putridpunk)
