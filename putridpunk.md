@@ -151,8 +151,8 @@ The core finding: the information exists, but students can't find it or understa
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=putridpunk&show_icons=true&include_all_commits=true&count_private=true&title_color=2DFC6F&icon_color=2DFC6F&text_color=E8FFF0&bg_color=0A2416&border_color=1E5C38" alt="Pedro's GitHub stats" />
-<img width="48%" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=putridpunk&layout=compact&langs_count=8&title_color=2DFC6F&text_color=E8FFF0&bg_color=0A2416&border_color=1E5C38" alt="Top languages" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=putridpunk&theme=dark" alt="Pedro's GitHub stats" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=putridpunk&theme=vue" alt="Repositories per language" />
 
 <br/>
 
