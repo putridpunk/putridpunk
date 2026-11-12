@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" role="img" aria-label="FSI project cover">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050B08"/>
+      <stop offset="1" stop-color="#0A2416"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#2DFC6F" stroke-opacity="0.07"/>
+    </pattern>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#2DFC6F" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#2DFC6F" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="clip"><rect width="800" height="450" rx="26"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="800" height="450" fill="url(#bg)"/>
+    <rect width="800" height="450" fill="url(#grid)"/>
+    <circle cx="640" cy="200" r="220" fill="url(#glow)"/>
+
+    <text x="64" y="102" fill="#2DFC6F" font-family="monospace" font-size="16" letter-spacing="4">FOUNDATIONS OF COMPUTER SECURITY</text>
+    <text x="60" y="242" fill="#E8FFF0" font-family="Arial, Helvetica, sans-serif" font-size="116" font-weight="700" letter-spacing="2">FSI</text>
+    <text x="66" y="292" fill="#9DBFAA" font-family="monospace" font-size="19" letter-spacing="3">SET-UID / XSS / SEED LABS</text>
+
+    <g font-family="monospace" font-size="14">
+      <rect x="66" y="330" width="88" height="30" rx="6" fill="#0A2416" stroke="#1E5C38"/>
+      <text x="82" y="350" fill="#9DBFAA">LINUX</text>
+      <rect x="164" y="330" width="74" height="30" rx="6" fill="#0A2416" stroke="#1E5C38"/>
+      <text x="180" y="350" fill="#9DBFAA">C</text>
+      <rect x="248" y="330" width="116" height="30" rx="6" fill="#0A2416" stroke="#1E5C38"/>
+      <text x="263" y="350" fill="#9DBFAA">EXPLOIT</text>
+    </g>
+
+    <path d="M622 62 L716 100 V206 C716 282 676 336 622 364 C568 336 528 282 528 206 V100 Z" fill="#07120C" stroke="#2DFC6F" stroke-width="3"/>
+    <path d="M622 86 L694 116 V204 C694 264 664 308 622 332 C580 308 550 264 550 204 V116 Z" fill="#0A2416" stroke="#1E5C38"/>
+
+    <g font-family="monospace" font-size="16">
+      <text x="566" y="148" fill="#2DFC6F">$ whoami</text>
+      <text x="566" y="178" fill="#E8FFF0">root</text>
+      <text x="566" y="218" fill="#2DFC6F">$ ./exploit</text>
+      <text x="566" y="248" fill="#E8FFF0">XSS OK</text>
+      <text x="566" y="278" fill="#2DFC6F">uid=0</text>
+    </g>
+    <rect x="566" y="298" width="112" height="8" rx="4" fill="#2DFC6F" opacity="0.6"/>
+  </g>
+</svg>

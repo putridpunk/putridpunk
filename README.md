@@ -78,72 +78,62 @@ My coursework has taken me from **HDLC-style framing and reliable transfer over 
 
 ## Featured projects
 
-### 📡 RCOM — Reliable file transfer over a serial link
-
-> A full link-layer and application-layer protocol in C, built on top of a provided serial-port API.
-
-Implemented an **HDLC-style framing** protocol with byte stuffing, **BCC1/BCC2** error detection, **stop-and-wait ARQ** with alternating sequence numbers, `RR`/`REJ` acknowledgements, `SET`/`UA`/`DISC` connection management, and `SIGALRM`-driven timeouts and retransmissions. On top of it, a simple application protocol with `START`/`DATA`/`END` packets and TLVs for file name and size.
-
-Validated with a virtual cable under **injected bit errors, propagation delay, and link disconnections** — the received file stays byte-identical to the original. The project also reports throughput and protocol efficiency.
-
-**Course:** Redes de Computadores (RC) — Computer Networks · 3rd year, 6 ECTS<br/>
-**Stack:** `C` · `Linux/WSL` · `termios` · `socat` · `Make`<br/>
-**Repo:** [github.com/putridpunk/RCOM](https://github.com/putridpunk/RCOM)
-
-<br/>
-
-### 🧮 PFL — Propositional logic classifier
-
-> A parser and truth-table engine for propositional logic, written in Haskell.
-
-Built with **parser combinators**: `prop` and `term` handle operator precedence and associativity, `factor` dispatches on negation, parentheses, constants and variables, and the parser only accepts input that consumes the whole line. The classifier generates all `2^n` truth assignments and labels each proposition as `TAUTOLOGY`, `CONTRADICTION` or `CONTINGENT`, with an `INVALID` fallback.
-
-Backed by a **65-case test suite** plus whitespace edge cases.
-
-**Course:** Programação Funcional e em Lógica (PFL) — Functional and Logic Programming · 3rd year, 6 ECTS<br/>
-**Stack:** `Haskell` · `GHC` · parser combinators · recursion<br/>
-**Repo:** [github.com/putridpunk/PFL-project-1](https://github.com/putridpunk/PFL-project-1)
-
-<br/>
-
-### 🗂️ LBAW — Collaborative project management platform
-
-> A team-based web application for organising projects, tasks and communication.
-
-Built on a **Laravel 12 / PHP 8.3 / PostgreSQL 16** stack with Blade and vanilla JavaScript. The domain model covers accounts and roles (`Coordinator` / `Member`), projects, tasks with status and priority, comments and a forum, attachments, time logging, invitations and notifications.
-
-The database is designed directly in SQL with **enums, constraints and triggers**, and the application enforces **policy-based authorization** on every protected resource, server-side validation, CSRF protection and escaped output. Work in progress as a course project.
-
-**Course:** Laboratório de Bases de Dados e Aplicações Web (LBAW) — Databases and Web Applications Laboratory · 3rd year, 6 ECTS<br/>
-**Stack:** `PHP` · `Laravel` · `PostgreSQL` · `Blade` · `Docker`<br/>
-**Repo:** academic GitLab repository — available on request
-
-<br/>
-
-### 🧑‍💻 IPC — "Procedimentos FEUP" public-services app
-
-> A user-centred redesign of how FEUP students find and follow administrative procedures.
-
-Four-person HCI project following a **user-centred design process**. We ran an online questionnaire, built a **PACT analysis**, two personas and activity scenarios, then derived functionalities and user stories. The current iteration covers **wireflows, a low-fidelity prototype and usability requirements**, leading into a high-fidelity prototype and user evaluation.
-
-The core finding: the information exists, but students can't find it or understand it — Sigarra is dispersed, opaque after submission, and awkward on mobile.
-
-**Course:** Interação Pessoa-Computador (IPC) — Human–Computer Interaction · 3rd year, 4.5 ECTS<br/>
-**Stack:** user research · PACT · wireframing · prototyping · usability evaluation<br/>
-**Deliverables:** presentation and report (Portuguese)
-
-<br/>
-
-### 🔐 FSI — SEED security labs
-
-> Hands-on exploitation and mitigation exercises on Linux and web applications.
-
-- **Set-UID & environment variables:** analysed how `fork`, `execve`, `system` and `PATH` interact in privileged programs; exploited a `PATH` hijack against a Set-UID root binary, and demonstrated why invoking a shell from privileged code is dangerous.
-- **Web security:** performed stored **XSS** attacks on the Elgg social network, stole session cookies with a `netcat` listener, and wrote a self-propagating **friend-request worm** — then analysed the corresponding mitigations.
-
-**Course:** Fundamentos de Segurança Informática (FSI) — Foundations of Computer Security · 3rd year, 6 ECTS<br/>
-**Stack:** `Linux` · `C` · `Bash` · `JavaScript` · `SEED Labs`<br/>
-**Deliverables:** lab logs and exploitation write-ups
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/putridpunk/RCOM"><img src="assets/projects/rcom.svg" width="100%" alt="RCOM project cover"></a>
+      <br/><br/>
+      <strong>RCOM — Reliable serial transfer</strong><br/>
+      File transfer over a serial link in C, with HDLC framing, stop-and-wait ARQ and BCC error control.
+      <br/><br/>
+      <a href="https://github.com/putridpunk/RCOM">View project →</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/putridpunk/PFL-project-1"><img src="assets/projects/pfl.svg" width="100%" alt="PFL project cover"></a>
+      <br/><br/>
+      <strong>PFL — Logic classifier</strong><br/>
+      Propositional logic parser and truth-table classifier built with parser combinators in Haskell.
+      <br/><br/>
+      <a href="https://github.com/putridpunk/PFL-project-1">View project →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/projects/lbaw.svg" width="100%" alt="LBAW project cover">
+      <br/><br/>
+      <strong>LBAW — Project management</strong><br/>
+      Collaborative project-management platform built with Laravel, PostgreSQL and Blade.
+      <br/><br/>
+      Available on request
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/projects/ipc.svg" width="100%" alt="IPC project cover">
+      <br/><br/>
+      <strong>IPC — Public services app</strong><br/>
+      User-centred app for FEUP administrative procedures, from research and PACT to wireflows.
+      <br/><br/>
+      Available on request
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/projects/fsi.svg" width="100%" alt="FSI project cover">
+      <br/><br/>
+      <strong>FSI — Security labs</strong><br/>
+      Hands-on SEED Labs on Set-UID privilege escalation and stored XSS attacks.
+      <br/><br/>
+      Available on request
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/putridpunk?tab=repositories"><img src="assets/projects/more.svg" width="100%" alt="More repositories on GitHub"></a>
+      <br/><br/>
+      <strong>More on GitHub</strong><br/>
+      Browse the rest of my repositories, coursework and experiments.
+      <br/><br/>
+      <a href="https://github.com/putridpunk?tab=repositories">Browse repositories →</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
