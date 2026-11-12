@@ -139,8 +139,8 @@ The core finding: the information exists, but students can't find it or understa
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=putridpunk&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Pedro's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=putridpunk&layout=compact&hide_border=true&langs_count=6&theme=tokyonight" alt="Top languages" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=putridpunk&theme=tokyonight" alt="Pedro's GitHub stats" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=putridpunk&theme=tokyonight" alt="Repositories per language" />
 
 <br/>
 
