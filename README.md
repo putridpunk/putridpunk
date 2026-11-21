@@ -85,10 +85,20 @@ This page collects my coursework. Some projects are public on GitHub; others are
       <sub>🚧 In progress — hosted on FEUP GitLab.</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/putridpunk?tab=repositories"><img src="assets/projects/more.svg" width="100%" alt="More repositories on GitHub"></a>
+      <a href="https://github.com/putridpunk/Assembly-Calculator"><img src="https://raw.githubusercontent.com/putridpunk/Assembly-Calculator/HEAD/docs/screenshot.png" height="220" alt="Assembly calculator screenshot"></a>
       <br/><br/>
-      <strong>More on GitHub</strong><br/>
-      Browse all my public repositories.
+      <strong>Assembly Calculator</strong><br/>
+      <em>x86-64 assembly · Win32 API · GNU assembler</em><br/><br/>
+      Scientific calculator written entirely in assembly: expression parser, math engine, number formatter and native Windows GUI, with no C runtime. Supports powers, roots, logarithms, trigonometry (DEG/RAD) and factorials, and includes engine tests.
+      <br/><br/>
+      <a href="https://github.com/putridpunk/Assembly-Calculator">View project →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top" colspan="2" align="center">
+      <a href="https://github.com/putridpunk?tab=repositories"><img src="assets/projects/more.svg" width="50%" alt="More repositories on GitHub"></a>
+      <br/><br/>
+      <strong>More on GitHub</strong> · Browse all my public repositories.
       <br/><br/>
       <a href="https://github.com/putridpunk?tab=repositories">Browse repositories →</a>
     </td>
@@ -102,6 +112,7 @@ This page collects my coursework. Some projects are public on GitHub; others are
 **Where I've built real projects**
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly%20x86--64-6E4C13?style=flat-square)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel%2012-FF2D20?style=flat-square&logo=laravel&logoColor=white)
