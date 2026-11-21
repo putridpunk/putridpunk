@@ -85,7 +85,7 @@ This page collects my coursework. Some projects are public on GitHub; others are
       <sub>🚧 In progress — hosted on FEUP GitLab.</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/putridpunk/Assembly-Calculator"><img src="https://raw.githubusercontent.com/putridpunk/Assembly-Calculator/HEAD/docs/screenshot.png" height="220" alt="Assembly calculator screenshot"></a>
+      <a href="https://github.com/putridpunk/Assembly-Calculator"><img src="assets/projects/asm.svg" width="100%" alt="Assembly Calculator project cover"></a>
       <br/><br/>
       <strong>Assembly Calculator</strong><br/>
       <em>x86-64 assembly · Win32 API · GNU assembler</em><br/><br/>
