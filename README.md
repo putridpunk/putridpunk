@@ -132,6 +132,21 @@ This page collects my coursework. Some projects are public on GitHub; others are
 
 ---
 
+## GitHub in numbers
+
+<div align="center">
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=putridpunk&theme=dark" alt="Pedro's GitHub stats" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=putridpunk&theme=dark" alt="Repositories per language" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=putridpunk&background=151515&border=1E5C38&stroke=2DFC6F&ring=2DFC6F&fire=2DFC6F&currStreakNum=E8FFF0&sideNums=E8FFF0&currStreakLabel=2DFC6F&sideLabels=2DFC6F&dates=9DBFAA" alt="GitHub streak" />
+
+</div>
+
+---
+
 ## Education
 
 **Faculty of Engineering, University of Porto (FEUP)** — Porto, Portugal<br/>
