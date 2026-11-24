@@ -65,24 +65,24 @@ This page collects my coursework. Some projects are public on GitHub; others are
       <sub>🚧 In progress — hosted on FEUP GitLab, will be published here when finished.</sub>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/projects/ipc.svg" width="100%" alt="IPC project cover">
+      <a href="https://github.com/putridpunk/Horizon-Events"><img src="assets/projects/horizon.svg" width="100%" alt="Horizon Events project cover"></a>
       <br/><br/>
-      <strong>IPC — Public services app</strong><br/>
-      <em>Human–computer interaction · user research</em><br/><br/>
-      User-centred app for FEUP administrative procedures, from user research and PACT analysis to wireflows and prototypes.
+      <strong>Horizon Events — Lightweight SIEM</strong><br/>
+      <em>Python · FastAPI · SQLAlchemy · React · Docker</em><br/><br/>
+      Imports Linux and Windows logs, normalises them into one event format and runs rule-based detections (plus an anomaly model) mapped to MITRE ATT&amp;CK. Alerts and incidents are tracked with a full history and shown in a dashboard. CI on GitHub Actions; all bundled data is synthetic.
       <br/><br/>
-      <sub>🚧 In progress — hosted on FEUP GitLab, case study coming soon.</sub>
+      <a href="https://github.com/putridpunk/Horizon-Events">View project →</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/projects/fsi.svg" width="100%" alt="FSI project cover">
+      <a href="https://github.com/putridpunk/CipherCheck"><img src="assets/projects/cipher.svg" width="100%" alt="CipherCheck project cover"></a>
       <br/><br/>
-      <strong>FSI — Security labs</strong><br/>
-      <em>SEED Labs · Linux</em><br/><br/>
-      Hands-on labs on Set-UID privilege escalation and stored XSS attacks, documented as write-ups of the method and what I learned.
+      <strong>CipherCheck — Password security auditor</strong><br/>
+      <em>Python · tkinter · CLI</em><br/><br/>
+      Rates password strength with pattern-aware entropy estimation, dictionary and leetspeak detection, and identifies hash formats. Runs fully offline, exports TXT/JSON/HTML reports, ships as a Windows app in 9 languages and has automated tests.
       <br/><br/>
-      <sub>🚧 In progress — hosted on FEUP GitLab.</sub>
+      <a href="https://github.com/putridpunk/CipherCheck">View project →</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/putridpunk/Assembly-Calculator"><img src="assets/projects/asm.svg" width="100%" alt="Assembly Calculator project cover"></a>
@@ -112,6 +112,10 @@ This page collects my coursework. Some projects are public on GitHub; others are
 **Where I've built real projects**
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Assembly](https://img.shields.io/badge/Assembly%20x86--64-6E4C13?style=flat-square)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -126,14 +130,11 @@ This page collects my coursework. Some projects are public on GitHub; others are
 **Also used in coursework and smaller exercises**
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
